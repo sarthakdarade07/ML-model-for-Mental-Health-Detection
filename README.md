@@ -16,7 +16,7 @@ The core finding: **data quality improvement (+0.047 macro F1) outperformed all 
 
 This project is backed by a peer-reviewed research paper.
 
-📥 [Read the Paper](./Transformers vs. Classical Models for Mental Health Detection_research_paper.pdf)
+📥 [Read the Paper](./Transformers%20vs.%20Classical%20Models%20for%20Mental%20Health%20Detection_research_paper.pdf)
 
 > **"Transformers vs. Classical Models for Mental Health Detection"**
 > Suyash Jaiswal, Harshada Deshmukh, Aman Jaiswal, Sarthak Darade, Rushikesh Kokate, Dr. Pratvina Talele
