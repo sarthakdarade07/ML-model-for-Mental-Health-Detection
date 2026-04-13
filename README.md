@@ -2,10 +2,6 @@
 
 > Comparing Classical ML Models vs. DistilBERT Transformer for 5-Class Mental Health Classification
 
-<p align="center">
-  <img src="Architecture/architecture_diagram.png" alt="Architecture Diagram" width="80%"/>
-</p>
-
 ---
 
 ## 📌 Overview
@@ -76,19 +72,6 @@ Mental Health Detection/
 | V5 — Soft Voting Ensemble (LR+SVM+NB) | 76% | 0.7601 | 0.935 | ~5 min |
 | V6 — Stacking Classifier (Evaluated) | 76% | 0.7573 | — | ~5 min |
 | **DistilBERT V1 (Best Overall)** | **78%** | **0.7788** | **0.944** | ~40 min |
-
----
-
-## 📊 Evaluation Snapshots
-
-<p align="center">
-  <img src="evaluations/fig3_confusion_matrices.png" width="48%"/>
-  <img src="evaluations/fig4_roc_curves.png" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="evaluations/fig5_model_comparison.png" width="80%"/>
-</p>
 
 ---
 
